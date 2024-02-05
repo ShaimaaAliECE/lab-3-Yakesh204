@@ -19,7 +19,7 @@ namespace Lab3App
 
         public override void Display()
         {
-            Console.WriteLine("Axe {0} is displayed", Description);
+            Console.WriteLine("MagicWand {0} is displayed", Description);
         }
     }
 }
